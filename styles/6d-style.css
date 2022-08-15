@@ -1,0 +1,25 @@
+
+p
+{
+  font-family: Montserrat;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.headline
+{
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.content
+{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.click
+{
+  text-decoration: underline;
+}
